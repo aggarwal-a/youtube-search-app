@@ -1,7 +1,3 @@
 # youtube-search-app
 
-This is the youtube search ios app
-
-Everything worked well.
-
-I did not run into any issues.
+This is a mobile app built in React Native using the Youtube Search API.
